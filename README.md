@@ -8,6 +8,6 @@
 - Lua
 - HTML/CSS
 
-## フレームワーク
+### フレームワーク
 - Astro
 - React
