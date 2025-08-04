@@ -11,3 +11,5 @@
 
 ### フレームワーク
 - Astro
+
+![PVカウント](https://komarev.com/ghpvc/?username=siyukatu)
